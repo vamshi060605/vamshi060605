@@ -3,7 +3,7 @@
 <h4 align="center">...learning...</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<br>- 🌱 I'm currently learning and working **java,html,css,c,**</br>
+<br>- 🌱 I'm currently learning and working on **java,html,css,c,**</br>
 
 <br>- 👨‍💻 All of my projects are available at github</br>
 
