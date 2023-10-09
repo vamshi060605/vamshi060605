@@ -9,7 +9,7 @@
 
 <br>- 💬 Ask me about **c,**</br>
 
-<br>- 🌐 <a href="https://www.google.co.in/">my website </a></br>
+<br>- 🌐 <a href="https://github.com/vamshi060605">my website </a></br>
 
 <br>- 📫 How to reach me **email**</br>
 
