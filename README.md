@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vamshi</h1>
 <h3 align="center">a college student at srm university </h3>
-<h4 align="center">...learning...</h4>
+<h4 align="center">...Exploring...</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <br>- 🌱 I'm currently learning and working on **java,html,css,c,**</br>
@@ -47,6 +47,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshi060605&show_icons=true&locale=en&layout=compact" alt="vamshi060605" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamshi060605&show_icons=true&locale=en" alt="vamshi060605" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi060605" alt="vamshi060605" /></p>
-</p>
+
+
