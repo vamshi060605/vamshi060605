@@ -34,8 +34,10 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 <p align="left"> 
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="webpack" width="40" height="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="webpack" width="40" height="40"/>
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="webpack" width="40" height="40"/>
         <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="webpack" width="40" height="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="webpack" width="40" height="40"/>
 
 </p>
 <br>
