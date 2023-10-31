@@ -7,13 +7,12 @@
 
 <br>- 👨‍💻 All of my projects are available at github</br>
 
-<br>- 💬 Ask me about **c,**</br>
-
 <br>- 🌐 <a href="https://vamshi060605.github.io">my website </a></br>
 
-<br>- 📫 How to reach me **email**</br>
+<br>- 📫 How to reach me **vamshit102@gmail.com**</br>
 
 <br>- ⚡ Fun fact ** booo  **</br>
+
 <br>
 
 -----
