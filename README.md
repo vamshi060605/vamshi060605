@@ -7,7 +7,7 @@
 
 <br>- 👨‍💻 All of my projects are available at github</br>
 
-<br>- 🌐 <a href="https://vamshi060605.github.io">my website </a></br>
+<br>- 🌐 <a href="https://vamshi060605.github.io">my portfolio </a></br>
 
 <br>- 📫 How to reach me **vamshit102@gmail.com**</br>
 
