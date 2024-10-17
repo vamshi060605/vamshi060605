@@ -10,9 +10,6 @@
 <br>- 🌐 <a href="https://vamshi060605.github.io">my portfolio </a></br>
 
 <br>- 📫 How to reach me **vamshit102@gmail.com**</br>
-
-<br>- ⚡ Fun fact ** booo  **</br>
-
 <br>
 
 -----
