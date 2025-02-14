@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vamshi</h1>
-<h3 align="center">a college student at srm university </h3>
-<h4 align="center">...Exploring...</h4>
+<h3 align="center">a Pre final year college student at srm university </h3>
+<h4 align="center">tech enthusiast</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <br>- 🌱 I'm currently learning and working on **java,html,css,c,**</br>
@@ -22,11 +22,8 @@
 <a href="https://www.hackerrank.com/vt2039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berkaykanca" height="30" width="40" /></a>
 </p>
 <br>
-
------
-
+<!--
 <br>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 <p align="left"> 
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="webpack" width="40" height="40"/>
@@ -34,12 +31,9 @@
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="webpack" width="40" height="40"/>
         <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="webpack" width="40" height="40"/>
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="webpack" width="40" height="40"/>
-
 </p>
 <br>
-
------
-
+-->
 <br>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
